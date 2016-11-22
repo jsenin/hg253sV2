@@ -4,6 +4,10 @@
 # https://github.com/jsenin/hg253sV2
 # decrypt and crypt config files for HG253sV2 firmware version V100R001C202B026
 
+
+# alternative command line tool
+# openssl enc -aes-128-cbc -K CB8C4A517D6FAD6C86DBC4795A492C0E -iv D4AC8D2D9BFB6DCF5D10ACB4AE20172B -d -in configfile.conf -out decrypted.conf;
+
 import sys
 import os
 from binascii import hexlify, unhexlify 
