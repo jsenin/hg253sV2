@@ -1,0 +1,57 @@
+#HG2523sV2 Hardware
+
+Product type 	HG253s V2  
+Hardware version 	AV1HG253SBZDM Ver.C
+
+##frontside
+
+1. Broadcom BCM63619
+   BCM63619VKFEBG NH1512 P20 466628-29 N3A
+
+2. 1Gb DDR2 SDRAM Micron D9LHT also called MT47H64M16
+   5GHI7 D9LHT RKTV
+   [Datasheet](https://www.micron.com/parts/dram/ddr2-sdram/mt47h64m16hr-25e)
+
+3. Ethernet Gigabit Switch Broadcom BCM53134
+   BCM53124SKMMLG 
+   Seven port energy efficient Ethernet ICs GIGABIT SWITCH
+   [Datasheet](https://www.broadcom.com/products/ethernet-connectivity/switch-fabric/bcm53134/)
+
+4. Gigabit Controller Broadcom BCM50612E
+   B50612e b0kmlg te1511 p20 163486 3w
+
+5. Supply network transformers
+   1X NT1801D HG1325
+   2X NT4804S HG1410
+
+6. DC/DC Converter RT8284N
+   RT8284N GSP1MP08
+   provides protection against shorted outputs
+   [Datasheet](http://www.richtek.com/en/Products/Switching%20Regulators/DC_DC%20StepDown%20Convertor/RT8284N?specid=RT8284N)
+
+7. Power transformer surface mount
+   SMD1504R || EP-542SG
+   [Datasheet EP-542SG](http://en.mnc-tek.com/Private/ProductFiles/635624679829062500471862628.pdf)
+
+8. DC/DC Converter DMG4466SSSL
+   G4466SS
+   provides protection against shorted outputs
+   [Datasheet](http://www.diodes.com/_files/datasheets/ds32244.pdf)
+
+9. DC/DC Converter MP1484EN
+   MP1484EN || R18250N
+   provides protection against shorted outputs
+   [Datasheet MP1484EN](http://fa.itservice-bg.net/baza/dc_dc/data/MP1484.pdf)
+
+##Backside
+
+1. 1 GBIT CMOS NAND EPROM TC58NVG0S3ETA00
+   TC58NVG0S3ETA00 || S34ML01G100TF100
+   [Datasheet TC58NVG0S3ETA00](https://4donline.ihs.com/images/VipMasterIC/IC/TOSC/TOSCS25929/TOSCS25929-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0)
+   [Datasheet S34ML01G100TF100](http://www.cypress.com/file/207521/download)
+   
+2. Microsemi Voiceport device zl88601
+   zl88601 15130aa
+   Dual Channel Wideband Auto Battery Switching (ABS) VoicePort Device - ZL880 Series
+   [Datasheet](http://www.microsemi.com/document-portal/doc_view/134660-product-brief-zl88601-602)
+
