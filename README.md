@@ -8,7 +8,9 @@ Huawei routers usually store the crypt and decrypt methods at /lib/libcfmapi.so
 
 
 ## Documentation
-take a look at 'doc' folder
+take a look at [docs](./docs) folder
+
+[Hardware components picture](./docs/hg253sV2-hardware-components.png)
 
 ## Credits
 Many thanks to hg658c from https://hg658c.wordpress.com/about/ and many others that had shared their knowlege and questions at the comments.
